@@ -1,0 +1,4 @@
+Add this to the makefile:
+
+# Copy missing instrument samples from the music sound banks
+_ := $(shell $(PYTHON) $(TOOLS_DIR)/copy_extended_sounds.py)
