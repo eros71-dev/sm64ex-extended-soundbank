@@ -1,4 +1,5 @@
 NLST 42 (Extended Soundbank)
+    The instrument IDs are actually wrong, for example, inst 1 is actually inst 0 (or rather, MIDI patch 1 is actually inst 0)
     0= Acoustic Guitar / Banjo
     1= Accordion
     2= Accordion
@@ -25,7 +26,7 @@ NLST 42 (Extended Soundbank)
     22= Banjo
     23= Harmonica
     24= Harmonica
-    25= Whistle
+    25= Whistle (actually 26?)
     26= Bright Piano
     27= Acoustic Bass
     28= Bright Piano
@@ -106,7 +107,7 @@ NLST 42 (Extended Soundbank)
     105= Cymbal Bell / Splash Bell
     106= Orchestra Hit
     107= Alto Flute
-    108= Strings
+    108= Strings (106?)
     109= Strings
     110= Strings
     111= Electric Bass
@@ -140,7 +141,7 @@ NLST 42 (Extended Soundbank)
     143= Triangle / Cabasa
     144= Gospel Organ
     145= Saw Wave
-    146= Square Wave
+    146= Square Wave (140?)
     147= Orchestra Hit
     149= Hi-hat (Open and closed)
     150= Triangle / Cabasa
